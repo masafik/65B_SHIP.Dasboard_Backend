@@ -1,0 +1,123 @@
+[
+    {
+        "AccDeviceID": "Device01",
+        "AccDeviceName": "เครื่องสแกน1",
+        "Lat": "12.722153",
+        "Long": "101.14626",
+        "AccDeviceStatus": "1",
+        "AreaID": "1",
+        "AreaName": "GSP#1 Process ",
+        "SubAreaID": "93",
+        "SubAreaName": "Benfield2"
+    },
+    {
+        "AccDeviceID": "Device02",
+        "AccDeviceName": "เครื่องสแกน2",
+        "Lat": "12.722593",
+        "Long": "101.145616",
+        "AccDeviceStatus": "1",
+        "AreaID": "2",
+        "AreaName": "GSP#1 Utility",
+        "SubAreaID": "101",
+        "SubAreaName": "Fire pump GSP#1"
+    },
+    {
+        "AccDeviceID": "Device03",
+        "AccDeviceName": "เครื่องสแกน3",
+        "Lat": "12.722069",
+        "Long": "101.147096",
+        "AccDeviceStatus": "1",
+        "AreaID": "3",
+        "AreaName": "GSP#2",
+        "SubAreaID": "110",
+        "SubAreaName": "Fire Pump GSP#1"
+    },
+    {
+        "AccDeviceID": "Device04",
+        "AccDeviceName": "เครื่องสแกน4",
+        "Lat": "12.721546",
+        "Long": "101.145873",
+        "AccDeviceStatus": "1",
+        "AreaID": "4",
+        "AreaName": "GSP#3",
+        "SubAreaID": "227",
+        "SubAreaName": "Sales Gas"
+    },
+    {
+        "AccDeviceID": "Device05",
+        "AccDeviceName": "เครื่องสแกน5",
+        "Lat": "12.719830",
+        "Long": "101.145981",
+        "AccDeviceStatus": "1",
+        "AreaID": "5",
+        "AreaName": "ESP",
+        "SubAreaID": "335",
+        "SubAreaName": "OWS"
+    },
+    {
+        "AccDeviceID": "Device06",
+        "AccDeviceName": "เครื่องสแกน6",
+        "Lat": "12.716397",
+        "Long": "101.142676",
+        "AccDeviceStatus": "1",
+        "AreaID": "6",
+        "AreaName": "GSP#5",
+        "SubAreaID": "266",
+        "SubAreaName": "Fin  Fan Refrig."
+    },
+    {
+        "AccDeviceID": "Device07",
+        "AccDeviceName": "เครื่องสแกน7",
+        "Lat": "12.716397",
+        "Long": "101.145337",
+        "AccDeviceStatus": "1",
+        "AreaID": "7",
+        "AreaName": "GSP#6",
+        "SubAreaID": 273,
+        "SubAreaName": "Main Substation"
+    },
+    {
+        "AccDeviceID": "Device08",
+        "AccDeviceName": "เครื่องสแกน8",
+        "Lat": "12.721986",
+        "Long": "101.144178",
+        "AccDeviceStatus": "1",
+        "AreaID": "9",
+        "AreaName": "GPPP",
+        "SubAreaID": "285",
+        "SubAreaName": "Pipeline42\""
+    },
+    {
+        "AccDeviceID": "Device09",
+        "AccDeviceName": "เครื่องสแกน9",
+        "Lat": "12.719034",
+        "Long": "101.146238",
+        "AccDeviceStatus": "0",
+        "AreaID": "10",
+        "AreaName": "TANK FARM",
+        "SubAreaID": "308",
+        "SubAreaName": "Metering area"
+    },
+    {
+        "AccDeviceID": "Device10",
+        "AccDeviceName": "เครื่องสแกน10",
+        "Lat": "12.719244",
+        "Long": "101.149113",
+        "AccDeviceStatus": "0",
+        "AreaID": "19",
+        "AreaName": "CWWTP",
+        "SubAreaID": "150",
+        "SubAreaName": "Main Substation & EDG OCS#3"
+    },
+    {
+        "AccDeviceID": "Device11",
+        "AccDeviceName": "MainPlant",
+        "Lat": "12.712848",
+        "Long": "101.145299",
+        "AccDeviceStatus": "1",
+        "AreaID": 0,
+        "AreaName": "Main Plant",
+        "SubAreaID": "-",
+        "SubAreaName": "-"
+    }
+]

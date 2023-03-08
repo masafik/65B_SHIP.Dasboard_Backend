@@ -1,0 +1,92 @@
+[
+    {
+        "id": "Type001",
+        "vehicle_type": "รถจักรยานยนต์",
+        "Icon": "https://www.i-pic.info/i/1YHG214099.png",
+        "Icon_InMap": "https://www.i-pic.info/i/CUW3214117.png"
+    },
+    {
+        "id": "Type002",
+        "vehicle_type": "รถกะบะ 1 ตอน",
+        "Icon": "https://www.i-pic.info/i/XCkK214101.png",
+        "Icon_InMap": "https://www.i-pic.info/i/CpE3214119.png"
+    },
+    {
+        "id": "Type003",
+        "vehicle_type": "รถกะบะ 2 ตอน",
+        "Icon": "https://www.i-pic.info/i/LPBA214100.png",
+        "Icon_InMap": "https://www.i-pic.info/i/76du214118.png"
+    },
+    {
+        "id": "Type004",
+        "vehicle_type": "รถยก",
+        "Icon": "https://www.i-pic.info/i/u2JN214106.png",
+        "Icon_InMap": "https://www.i-pic.info/i/lgHv214125.png"
+    },
+    {
+        "id": "Type005",
+        "vehicle_type": "รถบรรทุก 6 ล้อ",
+        "Icon": "https://www.i-pic.info/i/6BMo214104.png",
+        "Icon_InMap": "https://www.i-pic.info/i/TX4y214122.png"
+    },
+    {
+        "id": "Type006",
+        "vehicle_type": "รถบรรทุกน้ำ",
+        "Icon": "https://www.i-pic.info/i/yIRx214105.png",
+        "Icon_InMap": "https://www.i-pic.info/i/aVyI214123.png"
+    },
+    {
+        "id": "Type007",
+        "vehicle_type": "รถบรรทุกสารเคมี",
+        "Icon": "https://www.i-pic.info/i/WvTS214095.png",
+        "Icon_InMap": "https://www.i-pic.info/i/Zxto214110.png"
+    },
+    {
+        "id": "Type008",
+        "vehicle_type": "รถขนกากของเสีย/Condensate",
+        "Icon": "https://www.i-pic.info/i/8wOP214097.png",
+        "Icon_InMap": "https://www.i-pic.info/i/SyKR214115.png"
+    },
+    {
+        "id": "Type009",
+        "vehicle_type": "รถปั่นจั่น(เครน) ชนิดเคลื่อนที่",
+        "Icon": "https://www.i-pic.info/i/xfm4214096.png",
+        "Icon_InMap": "https://www.i-pic.info/i/Be51214112.png"
+    },
+    {
+        "id": "Type010",
+        "vehicle_type": "รถเฮี๊ยบ",
+        "Icon": "https://www.i-pic.info/i/p1R7214098.png",
+        "Icon_InMap": "https://www.i-pic.info/i/kwxo214116.png"
+    },
+    {
+        "id": "Type011",
+        "vehicle_type": "รถกระเช้า",
+        "Icon": "https://www.i-pic.info/i/2rCB214093.png",
+        "Icon_InMap": "https://www.i-pic.info/i/UNJ0214108.png"
+    },
+    {
+        "id": "Type012",
+        "vehicle_type": "รถเทลเลอร์",
+        "Icon": "https://www.i-pic.info/i/N8qF214103.png",
+        "Icon_InMap": "https://www.i-pic.info/i/QIS5214121.png"
+    },
+    {
+        "id": "Type013",
+        "vehicle_type": "รถแบคโฮ",
+        "Icon": "https://www.i-pic.info/i/aolM214090.png",
+        "Icon_InMap": "https://www.i-pic.info/i/DoKj214107.png"
+    },
+    {
+        "id": "Type014",
+        "vehicle_type": "รถเก๋ง",
+        "Icon": "https://www.i-pic.info/i/iLXc214094.png",
+        "Icon_InMap": "https://www.i-pic.info/i/n5hu214109.png"
+    },
+    {
+        "id": "Type015",
+        "vehicle_type": "รถ SUV",
+        "Icon": "https://www.i-pic.info/i/c8lD214102.png",
+        "Icon_InMap": "https://www.i-pic.info/i/mxw8214120.png"
+    }
+]

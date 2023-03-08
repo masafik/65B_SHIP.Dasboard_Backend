@@ -1,0 +1,72 @@
+[
+    {
+        "VehicleID": "VHM001",
+        "DateTime_In": "2022-10-12 08:00"
+    },
+    {
+        "VehicleID": "VHM002",
+        "DateTime_In": "2022-10-12 08:00"
+    },
+    {
+        "VehicleID": "VHM003",
+        "DateTime_In": "2022-10-12 08:00"
+    },
+    {
+        "VehicleID": "VHM004",
+        "DateTime_In": "2022-10-12 08:00"
+    },
+    {
+        "VehicleID": "VHM005",
+        "DateTime_In": "2022-10-12 08:00"
+    },
+    {
+        "VehicleID": "VHM006",
+        "DateTime_In": "2022-10-12 08:00"
+    },
+    {
+        "VehicleID": "VHM007",
+        "DateTime_In": "2022-10-12 08:00"
+    },
+    {
+        "VehicleID": "VHM008",
+        "DateTime_In": "2022-10-12 08:00"
+    },
+    {
+        "VehicleID": "VHM009",
+        "DateTime_In": "2022-10-12 08:00"
+    },
+    {
+        "VehicleID": "VHM010",
+        "DateTime_In": "2022-10-12 08:00"
+    },
+    {
+        "VehicleID": "VHM011",
+        "DateTime_In": "2022-10-12 08:00"
+    },
+    {
+        "VehicleID": "VHM012",
+        "DateTime_In": "2022-10-12 08:00"
+    },
+    {
+        "VehicleID": "VHM013",
+        "DateTime_In": "2022-10-12 08:00"
+    },
+    {
+        "VehicleID": "VHM014",
+        "DateTime_In": "2022-10-12 08:00"
+    },
+    {
+        "VehicleID": "VHM015",
+        "DateTime_In": "2022-10-12 08:00"
+    },
+    {
+        "VehicleID": "VHM016",
+        "DateTime_In": "2022-10-12 08:00",
+        "DateTime_Out": "2022-10-12 09:00"
+    },
+    {
+        "VehicleID": "VHM017",
+        "DateTime_In": "2022-10-12 08:00",
+        "DateTime_Out": "2022-10-12 09:00"
+    }
+]

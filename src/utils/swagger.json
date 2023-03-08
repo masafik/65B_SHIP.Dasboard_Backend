@@ -1,0 +1,19 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "title": "65B_SHIP.DASHBOARD_BACKEND",
+        "description": "",
+        "version": "1.0"
+    },
+    "produces": [
+        "application/json"
+    ],
+    "paths": {},
+    "securityDefinitions": {
+        "Bearer": {
+            "type": "apiKey",
+            "name": "Authorization",
+            "in": "header"
+        }
+    }
+}
